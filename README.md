@@ -16,3 +16,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ●Create a dashboard according to the mock-up provided by stakeholders.
 
 ●Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+
+Some major insights from the dashboard
+●Mumbai generates the highest revenue (784M) followed by Bangalore,Hyderabad,Delhi.
+
+●Atliq Exotica performs better compared to all 7 type of properties with 374M revenue,60% occupancy rate,rating 3.62 and 24.37% cancellation rate.
+
+●Atliq Blu has the highest occupancy rate.
+
+●Delhi tops in rating and occupancy followed by Hyderabad,●Mumbai and Bangalore.
+
+●Atliq lost around 298.7 Million revenue due to cancellation.
+
+●Week 24 recorded the highest revenue of 164.6 Million revenue.
+
+●Elite type rooms have the most booking followed by standard type.
